@@ -1,0 +1,70 @@
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\bin\Debug\Science G.K.exe.config
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\bin\Debug\Science G.K.exe
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\bin\Debug\Science G.K.pdb
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Science G.K.csprojAssemblyReference.cache
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Animals.g.cs
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Dashboard.g.cs
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\MainWindow.g.cs
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Planets.g.cs
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Plants.g.cs
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\App.g.cs
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Science G.K_MarkupCompile.cache
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Science G.K_MarkupCompile.lref
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Animals.baml
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Dashboard.baml
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\MainWindow.baml
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Planets.baml
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Plants.baml
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Science G.K.g.resources
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Science_G.K.Properties.Resources.resources
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Science G.K.csproj.GenerateResource.cache
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Science G.K.csproj.CoreCompileInputs.cache
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Science G.K.exe
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Science G.K.pdb
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Add Animal.g.cs
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Add Planet.g.cs
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Add Plant.g.cs
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Animal Table.g.cs
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Planet Table.g.cs
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Plant Table.g.cs
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Add Animal.baml
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Add Planet.baml
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Add Plant.baml
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Animal Table.baml
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Planet Table.baml
+C:\Users\SYED ABDUL BASIT\source\repos\Science G.K\Science G.K\obj\Debug\Plant Table.baml
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\bin\Debug\Science G.K.exe.config
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\bin\Debug\Science G.K.exe
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\bin\Debug\Science G.K.pdb
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Science G.K.csprojAssemblyReference.cache
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Add Animal.g.cs
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Add Planet.g.cs
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Add Plant.g.cs
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Animal Table.g.cs
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Animals.g.cs
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Dashboard.g.cs
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\MainWindow.g.cs
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Planet Table.g.cs
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Planets.g.cs
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Plant Table.g.cs
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Plants.g.cs
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\App.g.cs
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Science G.K_MarkupCompile.cache
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Science G.K_MarkupCompile.lref
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Add Animal.baml
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Add Planet.baml
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Add Plant.baml
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Animal Table.baml
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Animals.baml
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Dashboard.baml
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\MainWindow.baml
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Planet Table.baml
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Planets.baml
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Plant Table.baml
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Plants.baml
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Science G.K.g.resources
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Science_G.K.Properties.Resources.resources
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Science G.K.csproj.GenerateResource.cache
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Science G.K.csproj.CoreCompileInputs.cache
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Science G.K.exe
+C:\Users\SYED ABDUL BASIT\Downloads\AL BASIT\UNIVERSITY\IQRA UNIVERSITY(IU)\Semester 9 Summer\Raffay\VPL PAPAER\Q3\Science G.K\Science G.K\obj\Debug\Science G.K.pdb

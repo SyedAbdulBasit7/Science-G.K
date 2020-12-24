@@ -1,0 +1,103 @@
+﻿<Window x:Class="Science_G.K.Plants"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Science_G.K"
+        mc:Ignorable="d"
+        Title="Plants" Height="450" Width="1000">
+    <Grid Background="#FFEEFFE6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <!--#region Menu Start Here:-->
+        <Menu IsMainMenu="True"
+              VerticalAlignment="Top" Background="#FFC1FFB3"
+              Foreground="Black" FontSize="18">
+            <MenuItem Header="View Plant" >
+                <MenuItem Header="Plants Table" Click="plantTable_Click" x:Name="plantTable"/>
+            </MenuItem>
+        </Menu>
+        <!--#endregion-->
+        <!--#region Plant Information-->
+        <StackPanel Grid.Row="1">
+            <!--#region Plant List-->
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Plant List" Grid.Column="0" FontSize="18" Margin="10 10 0 0"/>
+                <ComboBox  Grid.Column="1" Margin="10 10 0 0" Width="400" HorizontalAlignment="Left" x:Name="PlantList"
+                           IsMouseCapturedChanged="PlantList_IsMouseCapturedChanged"/>
+            </Grid>
+            <!--#endregion-->
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="351.731"/>
+                    <ColumnDefinition Width="133.269"/>
+                    <ColumnDefinition Width="32.146"/>
+                    <ColumnDefinition Width="42.854"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Image Grid.Column="0" Margin="10 20 0 0" HorizontalAlignment="Left" 
+                   x:Name="plantImage" Width="550" Height="300" Grid.ColumnSpan="4"
+                       />
+                <Grid Grid.Column="4">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Conversation Satus" Grid.Column="0" FontSize="18" Margin="10 10 0 0"/>
+                        <TextBlock x:Name="conversationStatus" Grid.Column="1" FontSize="18" Margin="10 10 0 0"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Kingdom" Grid.Column="0" FontSize="18" Margin="10 10 0 0"/>
+                        <TextBlock x:Name="Kingdom" Grid.Column="1" FontSize="18" Margin="10 10 0 0"/>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Classification" Grid.Column="0" FontSize="18" Margin="10 10 0 0"/>
+                        <TextBlock x:Name="Classification" Grid.Column="1" FontSize="18" Margin="10 10 0 0"/>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Order" Grid.Column="0" FontSize="18" Margin="10 10 0 0"/>
+                        <TextBlock x:Name="Order" Grid.Column="1" FontSize="18" Margin="10 10 0 0"/>
+                    </Grid>
+                    <Grid Grid.Row="4">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Family" Grid.Column="0" FontSize="18" Margin="10 10 0 0"/>
+                        <TextBlock x:Name="Family" Grid.Column="1" FontSize="18" Margin="10 10 0 0"/>
+                    </Grid>
+
+                </Grid>
+
+            </Grid>
+        </StackPanel>
+        <!--#endregion-->
+    </Grid>
+</Window>

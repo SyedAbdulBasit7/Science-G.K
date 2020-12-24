@@ -1,0 +1,118 @@
+﻿<Window x:Class="Science_G.K.Planets"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Science_G.K"
+        mc:Ignorable="d"
+        Title="Planets" Height="450" Width="1000">
+    <Grid Background="#FFFFE6E6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <!--#region Menu Start Here:-->
+        <Menu IsMainMenu="True"
+              VerticalAlignment="Top" Background="#FFFFB3B3"
+              Foreground="Black" FontSize="18">
+            <MenuItem Header="View Planets">
+                <MenuItem Header="Planets Table" x:Name="planetsTable" Click="planetsTable_Click"/>
+
+            </MenuItem>
+        </Menu>
+        <!--#endregion-->
+        <!--#region Animal Information-->
+        <StackPanel Grid.Row="1">
+            <!--#region Animal List-->
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Planet List" Grid.Column="0" FontSize="18" Margin="10 10 0 0"/>
+                <ComboBox  Grid.Column="1" Margin="10 10 0 0" Width="400" HorizontalAlignment="Left" x:Name="AnimalList"
+                           IsMouseCapturedChanged="AnimalList_IsMouseCapturedChanged"/>
+            </Grid>
+            <!--#endregion-->
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="560"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Image Grid.Column="0" Margin="10 20 0 0" HorizontalAlignment="Left" 
+                   x:Name="planetImage" Width="550" Height="300" />
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="polar Radius:" Grid.Column="0" FontSize="18" Margin="10 10 0 0"/>
+                        <TextBlock x:Name="polarRadius" Grid.Column="1" FontSize="18" Margin="10 10 0 0"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Surface Area:" Grid.Column="0" FontSize="18" Margin="10 10 0 0"/>
+                        <TextBlock x:Name="surfaceArea" Grid.Column="1" FontSize="18" Margin="10 10 0 0"/>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Volume:" Grid.Column="0" FontSize="18" Margin="10 10 0 0"/>
+                        <TextBlock x:Name="Volume" Grid.Column="1" FontSize="18" Margin="10 10 0 0"/>
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Mass:" Grid.Column="0" FontSize="18" Margin="10 10 0 0"/>
+                        <TextBlock x:Name="Mass" Grid.Column="1" FontSize="18" Margin="10 10 0 0"/>
+                    </Grid>
+                    <Grid Grid.Row="4">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Number of moons:" Grid.Column="0" FontSize="18" Margin="10 10 0 0"/>
+                        <TextBlock x:Name="numberOfMoons" Grid.Column="1" FontSize="18" Margin="10 10 0 0"/>
+                    </Grid>
+                    <Grid Grid.Row="5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Distance From Earth:" Grid.Column="0" FontSize="18" Margin="10 10 0 0"/>
+                        <TextBlock x:Name="distanceFromEarth" Grid.Column="1" FontSize="18" Margin="10 10 0 0"/>
+                    </Grid>
+                    <Grid Grid.Row="6">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Distance From Sun:" Grid.Column="0" FontSize="18" Margin="10 10 0 0"/>
+                        <TextBlock x:Name="distanceFromSun" Grid.Column="1" FontSize="18" Margin="10 10 0 0"/>
+                    </Grid>
+
+                </Grid>
+
+            </Grid>
+        </StackPanel>
+        <!--#endregion-->
+    </Grid>
+</Window>

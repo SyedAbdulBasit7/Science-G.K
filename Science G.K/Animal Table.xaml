@@ -1,0 +1,12 @@
+﻿<Window x:Class="Science_G.K.Animal_Table"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Science_G.K"
+        mc:Ignorable="d"
+        Title="Animal_Table" Height="450" Width="1000">
+    <Grid>
+        <DataGrid Width="900" Height="400" x:Name="animalTable"></DataGrid>
+    </Grid>
+</Window>

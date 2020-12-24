@@ -1,0 +1,99 @@
+﻿<Window x:Class="Science_G.K.Add_Plant"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Science_G.K"
+        mc:Ignorable="d"
+        Title="Add_Plant" Height="550" Width="1000">
+    <StackPanel Margin="0 10 0 0">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="280"/>
+                <RowDefinition Height="60"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+            </Grid>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Enter Plant Name" Height="30" FontSize="18" HorizontalAlignment="Center"/>
+                <TextBox x:Name="addPlantName" Height="30" FontSize="18" HorizontalAlignment="Center" Width="300" Grid.Column="1"/>
+                <Button x:Name="btnSearch" Height="30" Click="btnSearch_Click" Grid.Column="2" 
+                        Width="300" Content="Search" FontSize="20"/>
+            </Grid>
+
+            <Grid Grid.Row="1" Margin="0 0 0 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Enter Conversation Satus" Height="30" FontSize="18" HorizontalAlignment="Center"/>
+                <TextBox x:Name="addConversationSatus" FontSize="18"
+                         Height="30" HorizontalAlignment="Center" Width="200" Grid.Column="1"/>
+                <TextBlock Text="Enter Kingdom" Height="30"
+                           FontSize="18" HorizontalAlignment="Center" Grid.Column="2"/>
+                <TextBox x:Name="addKingdom" Height="30"
+                         FontSize="18" HorizontalAlignment="Center" Width="200" Grid.Column="3"/>
+            </Grid>
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Height="30" Text="Enter Class" FontSize="18" HorizontalAlignment="Center"/>
+                <TextBox x:Name="addClass"  Height="30"
+                         FontSize="18" HorizontalAlignment="Center" Width="200" Grid.Column="1"/>
+                <TextBlock Height="30"
+                           Text="Enter Order" FontSize="18" HorizontalAlignment="Center" Grid.Column="2"/>
+                <TextBox x:Name="addOrder"
+                         Height="30" FontSize="18" HorizontalAlignment="Center" Width="200" Grid.Column="3"/>
+
+            </Grid>
+            <Grid Grid.Row="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Enter Family" Height="30" FontSize="18" HorizontalAlignment="Center"/>
+                <TextBox x:Name="addFamily" FontSize="18" Height="30" HorizontalAlignment="Center" Width="200" Grid.Column="1"/>
+                <TextBlock Text="Select Picture" FontSize="18" Height="30" HorizontalAlignment="Center" Grid.Column="2"/>
+                <Button x:Name="addPicture" FontSize="18" Height="30" HorizontalAlignment="Center" Width="200" Grid.Column="3"
+                        Click="addPicture_Click" Content="Browse"/>
+            </Grid>
+            <Grid Grid.Row="4">
+                <Image Height="280" Width="700" x:Name="plantPic"/>
+            </Grid>
+            <Grid Grid.Row="5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="addPlant" FontSize="18" Height="30" HorizontalAlignment="Center" Width="200" Grid.Column="0"
+                        Click="addPlant_Click" Content="Add"/>
+                <Button x:Name="deletePlant" FontSize="18" HorizontalAlignment="Center" Width="200" Grid.Column="1"
+                        Click="deletePlant_Click" Content="Delete" Height="30"/>
+                <Button x:Name="updatePlant" FontSize="18" HorizontalAlignment="Center" Width="200" Grid.Column="2"
+                        Click="updatePlant_Click" Content="Update" Height="30"/>
+            </Grid>
+        </Grid>
+    </StackPanel>
+</Window>
